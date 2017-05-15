@@ -7,12 +7,12 @@
 1.方便使用android studio进行xposed开发
 2.lib目录和libs目录**provided**,*compile*;暂且理解前者不会被编译到包中。
 
->细节
->>很重要
+> 细节
+>> 很重要
 
 --------------------------------------------------
 
-##表格
+## 表格
 
 dog | bird | cat
 ----|------|----
@@ -21,7 +21,7 @@ bar | bar  | bar
 baz | baz  | baz
 --------------------------------------------------
 
-##代码
+## 代码
 
 ```
 public class RedClock implements IXposedHookLoadPackage {
