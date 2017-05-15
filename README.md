@@ -7,6 +7,9 @@
 - 1.方便使用android studio进行xposed开发
 - 2.lib目录和libs目录**provided**,*compile*;暂且理解前者不会被编译到包中。
 
+1. 方便使用android studio进行xposed开发
+2. lib目录和libs目录**provided**,*compile*;暂且理解前者不会被编译到包中。
+
 > 细节
 >> 很重要
 
