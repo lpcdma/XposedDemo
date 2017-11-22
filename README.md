@@ -1,7 +1,5 @@
 # XposedDemo
 
-[lpcdma's Blog](http://lpcdma.com)
-
 ![](https://raw.githubusercontent.com/lpcdma/XposedDemo/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 - 1.方便使用android studio进行xposed开发
